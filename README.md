@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Hey, I'm a Graphic Gesigner and Computer Science student. I create websites that are visually appealing and easy to use, and I also enjoy making small machine learning models
+Hey, I'm a Graphic Designer and Computer Science student. I create websites that are visually appealing and easy to use, and I also enjoy making small machine learning models
 
 <div id="badges">
   <h2>Tech Stack</h2>
