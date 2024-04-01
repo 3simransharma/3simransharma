@@ -25,6 +25,8 @@ Hey, I'm a Graphic Designer and Computer Science student. I create websites that
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Adobe Illustrator badge">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop Badge"/>
 <img src="https://img.shields.io/badge/Adobe%20InDesign-EE3D8F?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Adobe InDesign Badge"/>
+<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma&logoColor=black" alt="Figma Badge"/>
+
 </div>
 
 <!--
